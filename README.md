@@ -14,17 +14,17 @@ This is a simple Spring Boot web application. It demonstrates the basic function
 ### Default Greeting
 This is how the page looks when accessed without a name parameter:
 
-![Default greeting](screenshots/default-greeting.png)
+![Default greeting](screenshots/default-greeting.PNG)
 
 ### Personalized Greeting
 This screenshot shows the greeting after passing a name (`?name=Mr Bielecki`) via the URL:
 
-![Greeting with name](screenshots/name-greeting.png)
+![Greeting with name](screenshots/name-greeting.PNG)
 
 ### View with Image
 Here’s the view with the Vistula logo image displayed on the frontend:
 
-![HTML view](screenshots/image-view.png)
+![HTML view](screenshots/image-view.PNG)
 
 ## Author
 Done by Takundanashe Rateiwa **(ID 74568)**
